@@ -8,10 +8,10 @@ Then to run this game run this command in cmd->
 
 and enjoy this game!
 
-<div align="center" style="padding-left: 10px; padding-bottom: 20px;">
+<div align="center" >
     <img width="60%" src="https://github.com/Asthasachan/Space-Invader-The-Game/blob/main/Capture.PNG" alt="game start">
 </div>
-
+<p style="padding-left: 10px; padding-bottom: 20px;"></p>
 
 <div align="center">
     <img width="60%" src="https://github.com/Asthasachan/Space-Invader-The-Game/blob/main/Capture1.PNG" alt="game over">
