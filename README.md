@@ -12,6 +12,7 @@ and enjoy this game!
     <img width="60%" src="https://github.com/Asthasachan/Space-Invader-The-Game/blob/main/Capture.PNG" alt="game start">
 </div>
 
+
 <div align="center">
     <img width="60%" src="https://github.com/Asthasachan/Space-Invader-The-Game/blob/main/Capture1.PNG" alt="game over">
 </div>
