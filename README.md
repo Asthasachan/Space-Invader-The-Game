@@ -2,8 +2,10 @@
 Space Invader game using PYTHON & PYGAMES
 To Run This game download files & python3 & install pygames from cmd->
 >>pip3 install pygame
+
 Then to run this game run this command in cmd->
 >>python main.py
+
 and enjoy this game!
 
 <div align="center">
